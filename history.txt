@@ -1,0 +1,12 @@
+
+2008-12-06
+	Create the project at google code
+	Add AjProlog-0.2 to archive
+	Add AjProlog-0.3 to trunk
+
+2008-12-08
+	Create AjGa
+
+2008-12-14
+	Create EvolveExample
+
